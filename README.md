@@ -32,4 +32,4 @@
 ✅ ETH Drainer
 
 ✅ ERC20 Drainer
-
+![Preview](https://cdn.discordapp.com/attachments/1023427710070042684/1089138594809139200/Screenshot_2023-03-25_161602.png)
