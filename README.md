@@ -24,3 +24,12 @@
 ✅ PANCAKESWAP router
 
 ✅ MOONBIRDS Support
+
+✅ CryptoPunks Drainer
+
+✅ Steal all approved OpenSea assets in one sign 
+
+✅ ETH Drainer
+
+✅ ERC20 Drainer
+
