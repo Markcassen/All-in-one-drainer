@@ -42,3 +42,12 @@ https://youtu.be/EZHtVTciBZ8
 ![Preview](https://cdn.discordapp.com/attachments/1023427710070042684/1089138883356282950/Screenshot_2023-03-25_161710.png)
 
 ## `🔥Whats included`
+
+✨ Lifetime updates
+
+✨ Full source code
+
+✨ Full setup instruction
+
+✨ Full support
+
